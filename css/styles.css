@@ -1,0 +1,23 @@
+.green-background {
+  background-color:#9bc49f;
+}
+
+.red-background {
+  background-color:#d19494;
+}
+
+.jumbotron {
+  margin-bottom: 2px;
+}
+
+.row {
+  margin-top:0px;
+}
+
+.li {
+  text-align:center;
+}
+
+ul {
+  list-style:none;
+}
